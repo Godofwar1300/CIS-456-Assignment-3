@@ -4,6 +4,13 @@ using UnityEngine;
 
 public class PlayerControllerX : MonoBehaviour
 {
+
+/*
+ * (CJ Green)
+ * (PlayerControllerX.cs)
+ * (Assignment 3)
+ * (This is the script responsible for the movement of the player.)
+*/
     public float speed;
     public float rotationSpeed;
     public float verticalInput;

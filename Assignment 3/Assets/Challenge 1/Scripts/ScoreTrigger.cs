@@ -3,8 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ScoreTrigger : MonoBehaviour
-{
-
+{   
+/*
+ * (CJ Green)
+ * (ScoreTrigger.cs)
+ * (Assignment 3)
+ * (This is the script responsible for detecting when the player hits the Score Trigger and gets points.)
+*/
     public int scoreValue;
     private GameController gameController;
     // Start is called before the first frame update

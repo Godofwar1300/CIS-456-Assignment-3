@@ -5,6 +5,13 @@ using UnityEngine;
 public class SpinPropeller : MonoBehaviour
 {
 
+/*
+ * (CJ Green)
+ * (SpinPropeller.cs)
+ * (Assignment 3)
+ * (This is the script responsible for spinning the propeller.)
+*/
+
     public int rotationSpeed;
     // Start is called before the first frame update
     void Start()

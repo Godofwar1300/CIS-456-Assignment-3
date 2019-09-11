@@ -5,6 +5,13 @@ using UnityEngine.UI;
 
 public class GameController : MonoBehaviour
 {
+
+/*
+ * (CJ Green)
+ * (GameController.cs)
+ * (Assignment 3)
+ * (This is the script responsible for updating and adding the score.)
+*/
     public Text scoreText;
     public int score;
 
